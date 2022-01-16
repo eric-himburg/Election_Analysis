@@ -45,7 +45,7 @@ The analysis of the election can be broken down into two parts: the counties and
   -   Diana DeGette, who received 73.8% of the vote and 272,892 votes.     
 
 ### The Code
-Below is screenshot summarizing all of the voting results.  The voting data were read into a Python program which after counting and making calculations,  printed the results into a separate text file for later use.
+Below is screenshot summarizing all of the voting results.  The voting data were read into a Python program which after counting and making calculations,  printed the results into a separate text file for later use.  
 
 ![screenshot of the election results data outputted](screenshots/election_results.png)
 
@@ -54,7 +54,9 @@ A snippet of the Python code used to count the votes can be seen in the screensh
 ![screenshot showing a portion of the code where the counties data is counted and percentage of votes calculated](screenshots/python_county_code.png)
 
 ## Election-Audit Summary
-The current script created in Python and used for this analyis can be re-purposed and used for any election.  
+The current script created in Python and used for this analyis can be re-purposed and used for any election.  For example, in the beginning of the script the user can easily modify which data is read into the program and also easily choose where the out put in written.  In the screenshot of the code below, the "file to load" and "file to save" options can easily be modified and used for data in other elections.  
+
+![screenshot showing the beginning of the Python code where input and output files are selection](screenshots/code_mod_1.png)
 
 
 
