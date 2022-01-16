@@ -60,8 +60,13 @@ The current script created in Python and used for this analyis can be re-purpose
 
 The type or level of election the software can analyze can also be easily modified.  Once again, at the beginning of the program the variable lists and dictionaries can easily be changed to accommodate city or national elections.  In the code below, counties can be changed to cities or states, or lists and dictionaries can easily be added if the voting involves city, state and federal candididates or proposals on the ballot.  
 
-![screenshot showing the beginning of the Python code where input and output files are selection](screenshots/code_mod_2.png)
+![screenshot near the top of the Python code where lists and dictionaries are initialized](screenshots/code_mod_2.png)
 
+Lastly, all results are outputed in a similar fashion that can be easily modified or added to within the script.  In the screenshot below, what is printed to the results text file can be changed to suit any form of election.  The variables within the code are given descriptive names so it is clear what they are being used for and hence it can be easily decided whether they are left in, modified or deleted.  This part of the code can also be easily copied and pasted to create other output options for varying types of elections.    
+
+![screenshot showing how results are outputed within the Python code](screenshots/code_mod_3.png)
+
+In conclusion, this code can easily be re-used every year for the same election or can easily be modified to accommodate general, primary or special elections.
 
 
 
