@@ -30,6 +30,7 @@ The analysis of the election can be broken down into two parts: the counties and
   -Jefferson County had 10.5% of the vote with 38,855 voters
   -Denver County had 82.8% of the vote with 306,055 voters
   -Arapahoe County had 6.7% of the vote with 24,801 voters
+ - The county with the largest turnout was Denver
   
 ### The Candidates
 - The candidates were:
