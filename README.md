@@ -1,8 +1,9 @@
 # Election Analysis
 
 ## Overview of Election Audit
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.  This was done at the request of an employee from the Colorado Board of Elections.  
+In order to complete the audit of a recent local congressional election in Colorado, the tasks listed below were performed.  Data from a CSV file was read into a a Python program where it was sorted and counted and used to calculate percentages of votes for both the candidates and countied involved.  This was done at the request of an employee from the Colorado Board of Elections.  
 
+## Tasks Performed
 1. Calculate the total number of votes cast.
 2. Determine the voter turnout for each county
 3. Calculate the percentage of votes from each county out of the total count
