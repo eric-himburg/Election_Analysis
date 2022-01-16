@@ -23,9 +23,9 @@ The analysis of the election can be broken down into two parts: the counties and
 ### The Counties
 - There were 369,711 votes cast in this congressional election.
 - The counties involved were:
-  -Jefferson
-  -Denver
-  -Arapahoe
+- -Jefferson
+- -Denver
+- -Arapahoe
 - The breakdown of votes by county were:
   -Jefferson County had 10.5% of the vote with 38,855 voters
   -Denver County had 82.8% of the vote with 306,055 voters
