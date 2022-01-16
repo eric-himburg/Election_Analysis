@@ -3,7 +3,7 @@
 ## Overview of Election Audit
 In order to complete the audit of a recent local congressional election in Colorado, the tasks listed below were performed.  Data from a CSV file was read into a a Python program where it was sorted and counted and used to calculate percentages of votes for both the candidates and countied involved.  This was done at the request of an employee from the Colorado Board of Elections.  
 
-## Tasks Performed
+### Tasks Performed
 1. Calculate the total number of votes cast.
 2. Determine the voter turnout for each county
 3. Calculate the percentage of votes from each county out of the total count
@@ -13,13 +13,25 @@ In order to complete the audit of a recent local congressional election in Color
 7. Calculate the percentage of votes each candidate won.
 8. Determine the winner of the election based on popular vote.
 
-## Resources
+### Resources
 - Data Source: election_results.csv
 - Software: Python 3.9.7
 
 ## Election-Audit Results
-The analysis of the election show that:
-- There were 369,711 votes cast in the election.
+The analysis of the election can be broken down into two parts: the counties and candidates involved.  
+
+### The Counties
+- There were 369,711 votes cast in this congressional election.
+- The counties involved were:
+  -Jefferson
+  -Denver
+  -Arapahoe
+- The breakdown of votes by county were:
+  -Jefferson County had 10.5% of the vote with 38,855 voters
+  -Denver County had 82.8% of the vote with 306,055 voters
+  -Arapahoe County had 6.7% of the vote with 24,801 voters
+  
+### The Candidates
 - The candidates were:
   -   Charles Casper Stockham
   -   Diana DeGette
